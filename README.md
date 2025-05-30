@@ -5,7 +5,7 @@ This repository serves as a collaborative hub for the World Advanced Multi-Healt
 Our Mission
 
 WAMHRI aims to:
-1.	To create decentralized, high-quality and durable health research education system that has goals and principles aligning either directly or indirectly with 17 Sustainable Development Goals of the United Nations
+1.	To create a decentralized, high-quality and durable health research education system that has goals and principles aligning either directly or indirectly with 17 Sustainable Development Goals of the United Nations
 2.	To teach advanced research methods and techniques to all enthusiastic people whose goals are to ensure attainment of excellent health, effective and efficient health care, and a better world for all.
 3.	To perform health research using advanced research methods to ensure attainment of excellent health, effective and efficient health care, and a better world for all.
 4.	To favor turning all proven and promising discoveries and innovative approaches into healthcare practical benefit to ensure attainment of excellent health, effective and efficient health care, and a better world for all.
@@ -14,9 +14,11 @@ WAMHRI aims to:
 7.	To teach and encourage the usage of ethics, bioethics, and healthcare bioethical principles.
 	
 Our Vision
+
 WAMHRI envision to be a decentralized nucleus of world health data science and intensive health research platform that aptly support evidence-based healthcare which is a top-rated strategy to ensure excellent health, effective, efficiency health care and a better world for all.
 
 What You'll Find Here
+
 This repository may contain:
 
 •	Research Projects & Data: 
@@ -58,4 +60,4 @@ We welcome collaboration from the global scientific community. Whether you're a 
 
 •	Join our discussions: Participate in discussions about pressing global health issues.
 
-Together, we can drive impactful research that transforms health outcomes and fosters a more equitable and sustainable future for all.
+Together, we can drive impactful health research that transforms health outcomes and fosters a more equitable and sustainable future for all.
