@@ -41,7 +41,9 @@ o	Resources from webinars, workshops, and conferences related to global health, 
 •	Policy & Advocacy Materials: 
 
 o	Documentation related to WAMHRI's advocacy efforts for health promotion, prevention strategies, and climate change adaptation in the context of health.
+
 •	Contribution Guidelines: 
+
 o	Information on how researchers, students, and other stakeholders can contribute to WAMHRI's initiatives.
 
 Get Involved
