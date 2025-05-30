@@ -25,8 +25,10 @@ o	Code, datasets (anonymized where applicable), and analytical scripts for WAMHR
 o	Examples include ongoing work on sustainable development goals in developing countries, healthcare bioethics, pediatric hydrocephalus management in Sub-Saharan Africa, and osteomyelitis treatment.
 
 •	Methodologies & Tools: 
+
 o	Templates, guidelines, and code for systematic literature reviews, meta-analyses (e.g., using RevMan), and other research methodologies.
 o	Resources for statistical analysis and data management using tools like SPSS, Jamovi, JASP, JMP, R Studio, PSPP, and CSPro.
+
 •	Publications & Reports: 
 o	Links to published research papers, review books, and policy briefs authored or co-authored by WAMHRI members.
 o	Working drafts of research, white papers, and conceptual frameworks.
