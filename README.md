@@ -42,6 +42,7 @@ o	Links to published research papers, review books, and policy briefs authored o
 o	Working drafts of research, white papers, and conceptual frameworks.
 
 •	Educational Materials: 
+
 o	Resources from webinars, workshops, and conferences related to global health, research methodologies, and bioethics.
 
 •	Policy & Advocacy Materials: 
