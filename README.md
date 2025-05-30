@@ -1,5 +1,4 @@
-# World-Advanced-Multi-Health-Research-Initiatives
-Pioneering Decentralized Advanced Health Research and Fostering Sustainable Solutions for a Healthier World.
+# World-Advanced-Multi-Health-Research-Initiatives: Pioneering a Decentralized Advanced Health Research and Fostering Sustainable Solutions for a Healthier World
 
 This repository serves as a collaborative hub for the World Advanced Multi-Health Research Initiatives (WAMHRI), a collective dedicated to advancing decentralized health research for the benefit of humanity. WAMHRI focuses on interdisciplinary and modern technologies such as Web3, Metaverse, Artificial Intelligence (AI), and blockchain approaches to tackle complex global health challenges, promote evidence-based practices, and strengthen healthcare systems, particularly in developing countries.
 
