@@ -12,7 +12,7 @@ WAMHRI aims to:
 5.	To organize scientific events to share scientific information, aiming to ensure the attainment of excellent health, effective and efficient health care, and a better world for all.
 6.	To support health-related organizations in generating timely technical reports.
 7.	To teach and encourage the usage of ethics, bioethics, and healthcare bioethical principles.
-8.	
+	
 Our Vision
 WAMHRI envision to be a decentralized nucleus of world health data science and intensive health research platform that aptly support evidence-based healthcare which is a top-rated strategy to ensure excellent health, effective, efficiency health care and a better world for all.
 
@@ -20,7 +20,9 @@ What You'll Find Here
 This repository may contain:
 
 •	Research Projects & Data: 
-o	Code, datasets (anonymized where applicable), and analytical scripts for WAMHRI's diverse research projects.
+
+o	Code, datasets (anonymized where applicable), and analytical scripts for WAMHRI's diverse research projects
+
 o	Examples include ongoing work on sustainable development goals in developing countries, healthcare bioethics, pediatric hydrocephalus management in Sub-Saharan Africa, and osteomyelitis treatment.
 
 •	Methodologies & Tools: 
@@ -29,6 +31,7 @@ o	Templates, guidelines, and code for systematic literature reviews, meta-analys
 o	Resources for statistical analysis and data management using tools like SPSS, Jamovi, JASP, JMP, R Studio, PSPP, and CSPro.
 
 •	Publications & Reports: 
+
 o	Links to published research papers, review books, and policy briefs authored or co-authored by WAMHRI members.
 o	Working drafts of research, white papers, and conceptual frameworks.
 
@@ -36,6 +39,7 @@ o	Working drafts of research, white papers, and conceptual frameworks.
 o	Resources from webinars, workshops, and conferences related to global health, research methodologies, and bioethics.
 
 •	Policy & Advocacy Materials: 
+
 o	Documentation related to WAMHRI's advocacy efforts for health promotion, prevention strategies, and climate change adaptation in the context of health.
 •	Contribution Guidelines: 
 o	Information on how researchers, students, and other stakeholders can contribute to WAMHRI's initiatives.
@@ -49,6 +53,7 @@ We welcome collaboration from the global scientific community. Whether you're a 
 •	Contribute to code: Help develop and refine analytical tools and methodologies.
 
 •	Provide feedback: Offer insights and suggestions on our work.
+
 •	Join our discussions: Participate in discussions about pressing global health issues.
 
 Together, we can drive impactful research that transforms health outcomes and fosters a more equitable and sustainable future for all.
